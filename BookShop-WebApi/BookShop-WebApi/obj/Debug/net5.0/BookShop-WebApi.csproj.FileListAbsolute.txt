@@ -22,7 +22,6 @@ D:\PROJECT\Git\Bookshop-asp.net-core-webapi\BookShop-WebApi\BookShop-WebApi\obj\
 D:\PROJECT\Git\Bookshop-asp.net-core-webapi\BookShop-WebApi\BookShop-WebApi\obj\Debug\net5.0\staticwebassets\BookShop-WebApi.StaticWebAssets.xml
 D:\PROJECT\Git\Bookshop-asp.net-core-webapi\BookShop-WebApi\BookShop-WebApi\obj\Debug\net5.0\scopedcss\bundle\BookShop-WebApi.styles.css
 D:\PROJECT\Git\Bookshop-asp.net-core-webapi\BookShop-WebApi\BookShop-WebApi\obj\Debug\net5.0\BookShop-WebApi.RazorTargetAssemblyInfo.cache
-D:\PROJECT\Git\Bookshop-asp.net-core-webapi\BookShop-WebApi\BookShop-WebApi\obj\Debug\net5.0\BookShop-WebApi.csproj.CopyComplete
 D:\PROJECT\Git\Bookshop-asp.net-core-webapi\BookShop-WebApi\BookShop-WebApi\obj\Debug\net5.0\BookShop-WebApi.dll
 D:\PROJECT\Git\Bookshop-asp.net-core-webapi\BookShop-WebApi\BookShop-WebApi\obj\Debug\net5.0\ref\BookShop-WebApi.dll
 D:\PROJECT\Git\Bookshop-asp.net-core-webapi\BookShop-WebApi\BookShop-WebApi\obj\Debug\net5.0\BookShop-WebApi.pdb
