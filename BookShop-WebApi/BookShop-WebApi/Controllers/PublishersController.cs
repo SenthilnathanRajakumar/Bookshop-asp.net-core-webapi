@@ -1,6 +1,8 @@
 ﻿using BookShop_WebApi.Data.Services;
 using BookShop_WebApi.Data.ViewModels;
+using BookShop_WebApi.Data.ViewModels.Authentication;
 using BookShop_WebApi.Exceptions;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -11,6 +13,8 @@ using System.Threading.Tasks;
 
 namespace BookShop_WebApi.Controllers
 {
+     
+    [Authorize(Roles = UserRoles.Publisher + "," + UserRoles.Admin)]
     [Route("api/[controller]")]
     [ApiController]
     public class PublishersController : ControllerBase

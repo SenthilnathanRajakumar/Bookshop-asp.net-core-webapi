@@ -1,4 +1,6 @@
 ﻿using BookShop_WebApi.Data.Services;
+using BookShop_WebApi.Data.ViewModels.Authentication;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -8,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace BookShop_WebApi.Controllers
 {
-    //[Authorize(Roles = UserRoles.Admin)]
+    [Authorize(Roles = UserRoles.Admin)]
     [Route("api/[controller]")]
     [ApiController]
     public class LogsController : ControllerBase
